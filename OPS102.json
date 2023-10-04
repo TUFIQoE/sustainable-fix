@@ -1,0 +1,163 @@
+[
+  {
+    "bitrate_vmaf_map": [
+      {
+        "bitrate": 284,
+        "vmaf": 57
+      },
+      {
+        "bitrate": 534,
+        "vmaf": 68
+      },
+      {
+        "bitrate": 152,
+        "vmaf": 43
+      },
+      {
+        "bitrate": 924,
+        "vmaf": 78
+      },
+      {
+        "bitrate": 1469,
+        "vmaf": 84
+      },
+      {
+        "bitrate": 105,
+        "vmaf": 34
+      },
+      {
+        "bitrate": 2476,
+        "vmaf": 90
+      },
+      {
+        "bitrate": 85,
+        "vmaf": 30
+      },
+      {
+        "bitrate": 4244,
+        "vmaf": 93
+      },
+      {
+        "bitrate": 6667,
+        "vmaf": 96
+      }
+    ],
+    "url": "https://www.netflix.com/watch/80094031?trackId=255824129",
+    "vmaf_template_scenario": [
+      90,
+      100,
+      70,
+      50,
+      90,
+      60,
+      40,
+      20,
+      30,
+      70,
+      80,
+      50,
+      40,
+      80,
+      100,
+      60
+    ],
+    "scenario": [
+      {
+        "bitrate": 2476,
+        "vmaf": 90,
+        "vmaf_template": 90,
+        "vmaf_diff": 0
+      },
+      {
+        "bitrate": 6667,
+        "vmaf": 96,
+        "vmaf_template": 100,
+        "vmaf_diff": 4
+      },
+      {
+        "bitrate": 534,
+        "vmaf": 68,
+        "vmaf_template": 70,
+        "vmaf_diff": 2
+      },
+      {
+        "bitrate": 284,
+        "vmaf": 57,
+        "vmaf_template": 50,
+        "vmaf_diff": 7
+      },
+      {
+        "bitrate": 2476,
+        "vmaf": 90,
+        "vmaf_template": 90,
+        "vmaf_diff": 0
+      },
+      {
+        "bitrate": 284,
+        "vmaf": 57,
+        "vmaf_template": 60,
+        "vmaf_diff": 3
+      },
+      {
+        "bitrate": 152,
+        "vmaf": 43,
+        "vmaf_template": 40,
+        "vmaf_diff": 3
+      },
+      {
+        "bitrate": 85,
+        "vmaf": 30,
+        "vmaf_template": 20,
+        "vmaf_diff": 10
+      },
+      {
+        "bitrate": 85,
+        "vmaf": 30,
+        "vmaf_template": 30,
+        "vmaf_diff": 0
+      },
+      {
+        "bitrate": 534,
+        "vmaf": 68,
+        "vmaf_template": 70,
+        "vmaf_diff": 2
+      },
+      {
+        "bitrate": 924,
+        "vmaf": 78,
+        "vmaf_template": 80,
+        "vmaf_diff": 2
+      },
+      {
+        "bitrate": 284,
+        "vmaf": 57,
+        "vmaf_template": 50,
+        "vmaf_diff": 7
+      },
+      {
+        "bitrate": 152,
+        "vmaf": 43,
+        "vmaf_template": 40,
+        "vmaf_diff": 3
+      },
+      {
+        "bitrate": 924,
+        "vmaf": 78,
+        "vmaf_template": 80,
+        "vmaf_diff": 2
+      },
+      {
+        "bitrate": 6667,
+        "vmaf": 96,
+        "vmaf_template": 100,
+        "vmaf_diff": 4
+      },
+      {
+        "bitrate": 284,
+        "vmaf": 57,
+        "vmaf_template": 60,
+        "vmaf_diff": 3
+      }
+    ]
+  }
+]
