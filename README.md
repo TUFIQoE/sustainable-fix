@@ -1,4 +1,4 @@
-# YourNetflixOurLab-TUFIQoE-2022 (add proper name)
+# YourNetflixOurLab-AccAnn
 
 Chrome extension and Python/flask REST API for [ecologically valid](https://en.wikipedia.org/wiki/Ecological_validity) QoE experiment using Netflix streaming platform. 
 <b>Does NOT require usage of Netflix-1080p extension.</b>
